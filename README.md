@@ -1,3 +1,5 @@
+![va-chronical-missing-issues: newspaper archive with missing dates](docs/images/social-preview.png)
+
 # va-chronical-missing-issues
 
 A Node.js script that detects which issues are missing from an online newspaper archive. It downloads the archive's calendar page for a paper, finds the dates that are available, compares them to the paper's publishing frequency, and writes a CSV report of the dates that are missing.
